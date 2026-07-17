@@ -1,0 +1,16 @@
+{
+  "custom_presets": {
+    "My NQ scan": "Here are my ATAS trading charts. What do you see - any notable setups, levels, or order flow worth flagging? Focus on NQ futures.",
+    "XAUUSD": "Read the order flow on my ATAS charts - notable setups, absorption, exhaustion, delta divergences, and the key levels that matter right now. give me signal to buy or sell add some colors and answer. red and green. i want perfect setups.",
+    "XAUUSDT": "- Trade Bias (BUY / SELL / WAIT)\nPerform a complete market analysis."
+  },
+  "auto_send": true,
+  "new_chat": false,
+  "selected_screens": [
+    0,
+    1,
+    2
+  ],
+  "last_prompt": "",
+  "window_pos": "+290+829"
+}
