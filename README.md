@@ -1,13 +1,42 @@
-# 📸 ScreenToChatGPT (Desktop Screen Capture & Visual AI Assistant)
+<div align="center">
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/damsarachethiyaa-dev/Screen-Capture)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![OpenAI](https://img.shields.io/badge/AI-ChatGPT%20Desktop%20%7C%20GPT--4o-412991?logo=openai&logoColor=white)](https://openai.com)
-[![Hotkey](https://img.shields.io/badge/Global%20Hotkey-Ctrl%20%2B%20Alt%20%2B%20G-FFD700)](https://github.com/damsarachethiyaa-dev/Screen-Capture)
-[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/damsarachethiyaa-dev/Screen-Capture)
+  <a href="https://github.com/damsarachethiyaa-dev/Screen-Capture">
+    <img src="app_preview.png" width="112" alt="ScreenToChatGPT icon" />
+  </a>
 
-> **Created by Chethiya Rathnasekara**  
-> *Instant multi-monitor screenshot capture tool with live monitor preview, customizable prompt presets, and automated injection into the ChatGPT desktop app or direct OpenAI GPT-4o analysis.*
+  # ScreenToChatGPT
+
+  ### Desktop App — Windows
+
+  **Capture every monitor. Ask the AI in one keystroke.**  
+  *Multi-monitor capture • global hotkey • ChatGPT desktop injection • direct GPT-4o analysis.*
+
+  <br />
+
+  <p>
+    <a href="https://github.com/damsarachethiyaa-dev/Screen-Capture/raw/main/dist/ScreenToChatGPT.exe"><img src="https://img.shields.io/badge/DOWNLOAD-SCREENTOCHATGPT.EXE-00e676?style=for-the-badge&labelColor=23272e&logo=windows&logoColor=white" alt="DOWNLOAD SCREENTOCHATGPT.EXE" /></a>
+    &nbsp;
+    <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/#projects"><img src="https://img.shields.io/badge/PORTFOLIO-CASE_STUDY-7c4dff?style=for-the-badge&labelColor=23272e&logo=googlechrome&logoColor=white" alt="PORTFOLIO CASE STUDY" /></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-0078D6?style=for-the-badge&labelColor=23272e&logo=windows&logoColor=white" alt="PLATFORM WINDOWS" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/PYTHON-3.10+-3776AB?style=for-the-badge&labelColor=23272e&logo=python&logoColor=white" alt="PYTHON 3.10+" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/AI-CHATGPT_%7C_GPT--4O-412991?style=for-the-badge&labelColor=23272e&logo=openai&logoColor=white" alt="AI CHATGPT | GPT-4O" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/HOTKEY-CTRL_+_ALT_+_G-FFB300?style=for-the-badge&labelColor=23272e" alt="HOTKEY CTRL + ALT + G" />
+  </p>
+
+  <p>
+    <img src="docs/readme-stats.svg" width="606" alt="Global hotkey Ctrl Alt G, multi-monitor capture, GPT-4o visual analysis" />
+  </p>
+
+
+</div>
+
+<br />
 
 ---
 
